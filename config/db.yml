@@ -1,0 +1,5 @@
+host: localhost
+database: roc-petfinder
+user: postgres
+password: Slide343434!
+port: 5432
